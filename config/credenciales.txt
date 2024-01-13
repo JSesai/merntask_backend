@@ -1,0 +1,8 @@
+MONGO_URI=mongodb+srv://antoniosesai:cYbvnEkxg2Htc1Co@cluster0.xfmf8i2.mongodb.net/uptask?retryWrites=true&w=majority
+JWT_SECRET=palabraSECRETA
+FRONTEND_URL=http://localhost:5173
+EMAIL_HOST=sandbox.smtp.mailtrap.io
+EMAIL_PORT= 2525
+EMAIL_USER=ce6fcaba990438
+EMAIL_PASS=29e898734ad394
+
